@@ -40,13 +40,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <div class="bio">
   <div class="box person">
     <img
-      src="/images/people/andrew-critch.jpg"
+      src="/images/andrew-critch.jpg"
       alt="Andrew Critch"
       width="132px"/></br>
     </div>
 <div class="name">Andrew Critch</div>
 <div class="title">Fund Advisor</div>
-Andrew Critch <a href="mailto:contact@existence.org">(email)</a> is currently a full-time research scientist in the EECS department at UC Berkeley, at Stuart Russell's <a href="http://humancompatible.ai/">Center for Human Compatible AI</a>.  He earned his PhD in mathematics at UC Berkeley studying applications of algebraic geometry to machine learning models. During that time, he cofounded the <a href="http://rationality.org">Center for Applied Rationality</a> and <a href="http://sparc-camp.org/">SPARC</a>. Andrew has been offered university faculty positions in mathematics and mathematical biosciences, worked as an algorithmic stock trader at <a href="https://www.janestreet.com/">Jane Street Capital</a>'s New York City office, and as a research fellow at the <a href="https://intelligence.org/">Machine Intelligence Research Institute</a>.  His current research interests include logical uncertainty, open source game theory, and avoiding arms race dynamics between nations and companies in AI development.
+Andrew Critch is currently a full-time research scientist in the EECS department at UC Berkeley, at Stuart Russell's <a href="http://humancompatible.ai/">Center for Human Compatible AI</a>.  He earned his PhD in mathematics at UC Berkeley studying applications of algebraic geometry to machine learning models. During that time, he cofounded the <a href="http://rationality.org">Center for Applied Rationality</a> and <a href="http://sparc-camp.org/">SPARC</a>. Andrew has been offered university faculty positions in mathematics and mathematical biosciences, worked as an algorithmic stock trader at <a href="https://www.janestreet.com/">Jane Street Capital</a>'s New York City office, and as a research fellow at the <a href="https://intelligence.org/">Machine Intelligence Research Institute</a>.  His current research interests include logical uncertainty, open source game theory, and avoiding arms race dynamics between nations and companies in AI development.
 </div>
 
 
@@ -55,7 +55,7 @@ Andrew Critch <a href="mailto:contact@existence.org">(email)</a> is currently a 
   <a name="eric-rogstad" class="intrapage-link"></a>
   <div class="box person">
     <img
-      src="/images/people/eric-rogstad.jpg"
+      src="/images/eric-rogstad.jpg"
       alt=""
       width="90%"/></br>
   </div>
@@ -69,7 +69,7 @@ Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for 
 <div class="bio">
   <div class="box person">
     <img
-      src="/images/people/alex-flint.jpg"
+      src="/images/alex-flint.jpg"
       alt="Alex Flint"
       width="90%"/></a></br>
   </div>
