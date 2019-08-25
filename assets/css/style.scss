@@ -17,6 +17,23 @@
     margin: 1ex 1ex 0 0;
     width: 144px;
   }
+  
+/* Team page */
+  
+  .name {
+    font-weight: bold;
+    padding: 0.5ex 0 0 0;
+  }
+  .title {
+    font-style: italic;
+    margin-bottom: 1em;
+  }
+  .bio {
+    margin-bottom: 3em;
+  }
+  .total-hours {
+    color: #cc0000;
+  }
 
 .intrapage-link {
   display: block;
