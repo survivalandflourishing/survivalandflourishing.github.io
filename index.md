@@ -57,7 +57,7 @@ Andrew Critch is currently a full-time research scientist in the EECS department
     <img
       src="/images/eric-rogstad.jpg"
       alt=""
-      width="90%"/></br>
+      width="132px"/></br>
   </div>
 <div class="name">Eric Rogstad</div>
 <div class="title">Fund Advisor</div>
@@ -71,7 +71,7 @@ Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for 
     <img
       src="/images/alex-flint.jpg"
       alt="Alex Flint"
-      width="90%"/></a></br>
+      width="132px"/></a></br>
   </div>
 <div class="name">Alex Flint</div>
 <div class="title">Fund Advisor</div>
