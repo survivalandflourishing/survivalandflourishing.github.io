@@ -35,14 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 <a name="staff" class="intrapage-link"></a>
-<h3>Staff</h3>
+<h3>Fund Advisors</h3>
 <a name="andrew-critch" class="intrapage-link"></a>
 <div class="bio">
   <div class="box person">
     <img
       src="/images/andrew-critch.jpg"
       alt="Andrew Critch"
-      width="132px"/></br>
+      width="132px"/>
     </div>
 <div class="name">Andrew Critch</div>
 <div class="title">Fund Advisor</div>
@@ -57,7 +57,7 @@ Andrew Critch is currently a full-time research scientist in the EECS department
     <img
       src="/images/eric-rogstad.jpg"
       alt=""
-      width="132px"/></br>
+      width="132px"/>
   </div>
 <div class="name">Eric Rogstad</div>
 <div class="title">Fund Advisor</div>
@@ -71,7 +71,7 @@ Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for 
     <img
       src="/images/alex-flint.jpg"
       alt="Alex Flint"
-      width="132px"/></a></br>
+      width="132px"/>
   </div>
 <div class="name">Alex Flint</div>
 <div class="title">Fund Advisor</div>
