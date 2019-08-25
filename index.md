@@ -34,4 +34,49 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
+<a name="staff" class="intrapage-link"></a>
+<h3>Staff</h3>
+<a name="andrew-critch" class="intrapage-link"></a>
+<div class="bio">
+  <div class="box person">
+    <img
+      src="/images/people/andrew-critch.jpg"
+      alt="Andrew Critch"
+      width="132px"/></br>
+    </div>
+<div class="name">Andrew Critch</div>
+<div class="title">Fund Advisor</div>
+Andrew Critch <a href="mailto:contact@existence.org">(email)</a> is currently a full-time research scientist in the EECS department at UC Berkeley, at Stuart Russell's <a href="http://humancompatible.ai/">Center for Human Compatible AI</a>.  He earned his PhD in mathematics at UC Berkeley studying applications of algebraic geometry to machine learning models. During that time, he cofounded the <a href="http://rationality.org">Center for Applied Rationality</a> and <a href="http://sparc-camp.org/">SPARC</a>. Andrew has been offered university faculty positions in mathematics and mathematical biosciences, worked as an algorithmic stock trader at <a href="https://www.janestreet.com/">Jane Street Capital</a>'s New York City office, and as a research fellow at the <a href="https://intelligence.org/">Machine Intelligence Research Institute</a>.  His current research interests include logical uncertainty, open source game theory, and avoiding arms race dynamics between nations and companies in AI development.
+</div>
+
+
+
+<div class="bio">
+  <a name="eric-rogstad" class="intrapage-link"></a>
+  <div class="box person">
+    <img
+      src="/images/people/eric-rogstad.jpg"
+      alt=""
+      width="90%"/></br>
+  </div>
+<div class="name">Eric Rogstad</div>
+<div class="title">Fund Advisor</div>
+Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for finding, reading, and creating crowdsourced, intuitive explanations, developed partly in response to the observation that arguments about civilization-scale priorities like existential risk are complex and in need of better organizational tools for conveying them. He studied Electrical and Computer Engineering at Duke University, and has previously worked as a Software Development Engineer at Microsoft and Amazon.
+</div>
+
+
+<a name="alex-flint" class="intrapage-link"></a>
+<div class="bio">
+  <div class="box person">
+    <img
+      src="/images/people/alex-flint.jpg"
+      alt="Alex Flint"
+      width="90%"/></a></br>
+  </div>
+<div class="name">Alex Flint</div>
+<div class="title">Fund Advisor</div>
+Alex Flint previously worked as Staff Software Engineer at <a href="https://getcruise.com/">Cruise Automation</a>, which creates autonomous driving technology. Alex joined Cruise after the company he co-founded, Zippy, was acquired. Previously, Alex was Head of Engineering at <a href="https://kite.com/">Kite</a>. Alex holds a DPhil in Engineering from Oxford University and a Bachelor’s degree in Computer Science from the University of Adelaide.
+</div>
+<div style="clear:both"></div>
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
