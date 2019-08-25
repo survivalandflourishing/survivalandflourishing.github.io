@@ -1,5 +1,9 @@
 Test 10:59. 
 
+Survivalandflourishing.org is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
+
+SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.
+
 <a name="staff" class="intrapage-link"></a>
 <h3>Survival and Flourishing Fund Advisors</h3>
 <a name="andrew-critch" class="intrapage-link"></a>
