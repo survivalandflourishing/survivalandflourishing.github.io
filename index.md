@@ -48,5 +48,3 @@ Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for 
 Alex Flint previously worked as Staff Software Engineer at <a href="https://getcruise.com/">Cruise Automation</a>, which creates autonomous driving technology. Alex joined Cruise after the company he co-founded, Zippy, was acquired. Previously, Alex was Head of Engineering at <a href="https://kite.com/">Kite</a>. Alex holds a DPhil in Engineering from Oxford University and a Bachelor’s degree in Computer Science from the University of Adelaide.
 </div>
 <div style="clear:both"></div>
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
