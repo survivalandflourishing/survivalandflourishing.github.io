@@ -6,17 +6,22 @@
 #forkme_banner { display: none;}
 
 
-  .box {
-    &.highlight {
-      text-align: center;
-    }
+.box {
+  &.highlight {
+    text-align: center;
+  }
+  &.person {
+    position: relative;
+      float: left;
+    text-align: center;
+    margin: 1ex 1ex 0 0;
+    width: 144px;
+  }
 
-
-    &.person {
-      position: relative;
-        float: left;
-      text-align: center;
-      margin: 1ex 1ex 0 0;
-      width: 144px;
-    }
+.intrapage-link {
+  display: block;
+  position: relative;
+  top: -60px;
+  border-bottom: none;
+}
 
