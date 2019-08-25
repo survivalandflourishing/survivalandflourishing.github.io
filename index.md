@@ -1,6 +1,6 @@
-*SFF is currently seeking applications from organizations for grants to be awarded between December 2019 and January 2020:**
+*SFF is currently seeking applications from organizations for grants to be awarded between December 2019 and January 2020:*
 
-<2019-Q4 SFF org grant short-form application> (Due date: Oct 1, 2019)
+<SFF org grant short-form application for 2019-Q4> (Due date: Oct 1, 2019)
 
 ### About Us 
 
