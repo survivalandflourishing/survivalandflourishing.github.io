@@ -5,7 +5,18 @@
 
 #forkme_banner { display: none;}
 
+.intrapage-link {
+  display: block;
+  position: relative;
+  top: -60px;
+  border-bottom: none;
+}
 
+#project_title {
+  text-align: center;
+}
+
+/* Team listing */
 .box {
   &.highlight {
     text-align: center;
@@ -19,27 +30,20 @@
   }
 }
   
-/* Team page */
-  
-  .name {
-    font-weight: bold;
-    padding: 2em 0 0 0;
-  }
-  .title {
-    font-style: italic;
-    margin-bottom: 1em;
-  }
-  .bio {
-    margin-bottom: 3em;
-  }
-  .total-hours {
-    color: #cc0000;
-  }
-
-.intrapage-link {
-  display: block;
-  position: relative;
-  top: -60px;
-  border-bottom: none;
+.name {
+  font-weight: bold;
+  padding: 2em 0 0 0;
 }
+.title {
+  font-style: italic;
+  margin-bottom: 1em;
+}
+.bio {
+  margin-bottom: 3em;
+}
+.total-hours {
+  color: #cc0000;
+}
+
+
 
