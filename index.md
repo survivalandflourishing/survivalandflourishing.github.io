@@ -2,11 +2,15 @@
 
 <SFF org grant short-form application for 2019-Q4> (Due date: Oct 1, 2019)
 
+<a name="about" class="intrapage-link"></a>
 ### About Us 
 
 Survivalandflourishing.org is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
 
 SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.
+
+<a name="advisors" class="intrapage-link"></a>
+### Survival and Flourishing Fund Advisors
 
 <a name="alex-flint" class="intrapage-link"></a>
 <div class="bio">
@@ -21,8 +25,7 @@ SFF was initially funded in 2019 by a grant of approximately $2 million from the
 Alex Flint previously worked as Staff Software Engineer at <a href="https://getcruise.com/">Cruise Automation</a>, which creates autonomous driving technology. Alex joined Cruise after the company he co-founded, Zippy, was acquired. Previously, Alex was Head of Engineering at <a href="https://kite.com/">Kite</a>. Alex holds a DPhil in Engineering from Oxford University and a Bachelor’s degree in Computer Science from the University of Adelaide.
 </div>
 
-<a name="staff" class="intrapage-link"></a>
-<h3>Survival and Flourishing Fund Advisors</h3>
+
 <a name="andrew-critch" class="intrapage-link"></a>
 <div class="bio">
   <div class="box person">
