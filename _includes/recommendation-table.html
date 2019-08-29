@@ -1,0 +1,32 @@
+<div class="grants-table">
+    <table class="ui grey selectable celled striped table"> <!-- sortable -->
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Grantee</th>
+                <th>Category</th>
+                <th>Disbursing Entity</th>
+                <th>Amount</th>
+                <th>Purpose</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for grant in site.data.grants %}
+            <tr>
+                <td>{{ grant.Date }}</td>
+                <td>
+                    {% if grant.url %}
+                        <a href="{{ grant.URL }}">{{ grant.Grantee }}</a>
+                    {% else %}
+                        {{ grant.Grantee }}
+                    {% endif %}
+                </td>
+                <td>{{ grant.Category }}</td>
+                <td>{{ grant.Disbursement}}</td>
+                <td>{{ grant.Amount }}</td>
+                <td>{{ grant.Purpose }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
