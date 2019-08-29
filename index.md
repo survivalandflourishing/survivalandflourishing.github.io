@@ -1,4 +1,4 @@
-*SFF will soon be seeking applications from organizations for grants to be distributed between December 2019 and January 2020.*
+*SFF will soon be seeking applications from organizations for funds we hope to be distributed between December 2019 and January 2020.*
 
 {% comment %} 
 <SFF org grant short-form application for 2019-Q4> (Due date: Oct 1, 2019)
@@ -7,7 +7,9 @@
 <a name="about" class="intrapage-link"></a>
 ### About Us 
 
-Survivalandflourishing.org is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
+Survivalandflourishing.org is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund held at the Silicon Valley Community Foundation.
+
+Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
 
 SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.
 
