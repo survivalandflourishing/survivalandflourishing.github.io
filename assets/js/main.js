@@ -10,7 +10,7 @@
     }, 250);
 
     var headings = $('h1, h2, h3, h4');
-
+    console.log("s")
     $.each(headings, function (i, el) {
       if (!el.id) {
         // Hyphen-case the innerText if id is missing
