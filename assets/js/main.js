@@ -1,4 +1,6 @@
 (function($) {
+  
+  // Function to make headings clickable
   $(function() {
     setTimeout(function () {
       if (window.location.hash) {
