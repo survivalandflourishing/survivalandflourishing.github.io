@@ -57,3 +57,7 @@ Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for 
 </div>
 
 <div style="clear:both"></div>
+
+### Past Grant Recommendations
+
+{% include recommendation-table.html %}
