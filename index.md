@@ -1,8 +1,6 @@
-*SFF will soon be seeking applications from organizations for funds we hope to be distributed between December 2019 and January 2020.*
+*SFF is now seeking applications from organizations for funds we hope to be distributed in December, 2019:*
 
-{% comment %} 
-<SFF org grant short-form application for 2019-Q4> (Due date: Oct 1, 2019)
-{% endcomment %}
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfPWCYskBtG7sQeKuTtFHi4soqgnkdaLW_yiUN0Eln1GIqjjg/viewform?usp=sf_link">SFF org grant short-form application for 2019-Q4</a> (Due date: Oct 4, 2019)
 
 <a name="about" class="intrapage-link"></a>
 ### About Us 
