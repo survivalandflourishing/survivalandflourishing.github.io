@@ -5,7 +5,7 @@ SFF is now seeking applications from organizations for funds we hope to be distr
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPWCYskBtG7sQeKuTtFHi4soqgnkdaLW_yiUN0Eln1GIqjjg/viewform?usp=sf_link">SFF org grant short-form application for 2019-Q4</a> (Due date: Oct 4, 2019)
 
-We hope this funding round will distribute between $1MM and $2MM in total.
+We expect this funding round will distribute between $1MM and $2MM in total.  SFF is teaming up with philanthropist Jaan Tallinn for this grant round, so some of the final grants will be directed by SFF recommendations, and some will be directed by Jaan.
 
 <a name="about" class="intrapage-link"></a>
 ### About Us 
