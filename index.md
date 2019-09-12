@@ -56,7 +56,7 @@ Andrew Critch is currently a full-time research scientist in the EECS department
   </div>
 <div class="name">Eric Rogstad</div>
 <div class="title">Fund Advisor</div>
-Eric is co-founder of <a href="https://arbital.com">Arbital</a>, a platform for finding, reading, and creating crowdsourced, intuitive explanations, developed partly in response to the observation that arguments about civilization-scale priorities like existential risk are complex and in need of better organizational tools for conveying them. He studied Electrical and Computer Engineering at Duke University, and has previously worked as a Software Development Engineer at Microsoft and Amazon.
+Eric works at <a href="http://EMX.com/">EMX.com</a>, where he was a founding engineer, building a new cryptocurrency derivatives exchange. Previously, he worked as a software engineer at Microsoft and Amazon.com, and was co-founder of Arbital.com, a platform for finding, reading, and creating crowdsourced, intuitive explanations, developed partly in response to the observation that arguments about civilization-scale priorities like existential risk are complex and in need of better organizational tools for conveying them. Eric holds a BSE in Electrical Engineering and Computer Science from Duke University.
 </div>
 
 <div style="clear:both"></div>
