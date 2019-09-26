@@ -61,10 +61,12 @@ Eric works at <a href="http://EMX.com/">EMX.com</a>, where he was a founding eng
 
 <div style="clear:both"></div>
 
+<a name="grants" class="intrapage-link"></a>
 ### Past Grant Recommendations
 
 {% include recommendation-table.html %}
 
-### Past Grant Recommendations
+<a name="contact" class="intrapage-link"></a>
+### Contact
 
 If you need to reach SFF, you can send an email to sff(char)contact@googlegroups.com, with (char) resplaced by a hyphen (to avoid spam).  Note that we are a volunteer-run organization and might take some time to respond.
