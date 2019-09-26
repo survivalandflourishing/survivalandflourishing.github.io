@@ -64,3 +64,7 @@ Eric works at <a href="http://EMX.com/">EMX.com</a>, where he was a founding eng
 ### Past Grant Recommendations
 
 {% include recommendation-table.html %}
+
+### Past Grant Recommendations
+
+If you need to reach SFF, you can send an email to sff(char)contact@googlegroups.com, with (char) resplaced by a hyphen (to avoid spam).  Note that we are a volunteer-run organization and might take some time to respond.
