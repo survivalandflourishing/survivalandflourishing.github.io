@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
-title: Survival and Flourishing<br>.org
+title: Survival and Flourishing<br>.Fund
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "//survivalandflourishing.org" # the base hostname & protocol for your site
+url: "//survivalandflourishing.fund" # the base hostname & protocol for your site
 
 github:
   is_project_page: false
