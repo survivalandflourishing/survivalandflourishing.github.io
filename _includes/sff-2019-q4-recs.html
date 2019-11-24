@@ -1,0 +1,31 @@
+In 2019 Q4, SFF and Jaan Tallinn agreed on the following grant reocmmendations to be made from various sources:
+
+we have thus far recommended to be made from the Survival and Flourishing Fund.
+<div class="grants-table">
+    <table class="ui grey selectable celled striped table"> <!-- sortable -->
+        <thead>
+            <tr>
+                <th>Date of <br>Recommendation</th>
+                <th>Grantee Organization</th>
+                <th>Amount</th>
+                <th>Purpose</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for grant in site.data.sff-2019-q4-recs %}
+            <tr>
+                <td>{{ grant.month }}</td>
+                <td>
+                    {% if grant.url %}
+                        <a href="{{ grant.url }}">{{ grant.grantee }}</a>
+                    {% else %}
+                        {{ grant.grantee }}
+                    {% endif %}
+                </td>
+                <td>{{ grant.amount }}</td>
+                <td>{{ grant.purpose }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
