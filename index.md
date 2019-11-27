@@ -9,7 +9,7 @@ The total funding distributed will be around $2MM, at the high end of our expect
 <a name="about" class="intrapage-link"></a>
 ### About Us 
 
-Survivalandflourishing.org is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund held at the Silicon Valley Community Foundation.
+Survivalandflourishing.fund is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund held at the Silicon Valley Community Foundation.
 
 Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
 
