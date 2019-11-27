@@ -2,7 +2,7 @@
 <a name="2019-q4" class="intrapage-link"></a>
 ### 2019-Q4 grant round 
 SFF had finalized most of its grant decisions for 2019-Q4:
-[http://survivalandflourishing.fund/sff-2019-q4](SFF-2019-Q4 S-process Recommendations Announcement)
+[SFF-2019-Q4 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2019-q4)
 
 The total funding distributed will be around $2MM, at the high end of our expected $1MM-$2MM estimate. We are considering running another similar grant round in Q2, Q3, or Q4 of 2020, but this decision has not been finalized.
 
