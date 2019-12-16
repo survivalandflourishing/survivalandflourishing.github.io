@@ -1,7 +1,21 @@
-month	grantee	url	amount	purpose
-2019-08	80,000 Hours	https://80000hours.org/	$280,000	General Support
-2019-08	Center for Applied Rationality	https://rationality.org/	$110,000	General Support
-2019-08	Centre for the Study of Existential Risk	https://www.cser.ac.uk/	$40,000	General Support
-2019-08	Future of Life Institute	https://futureoflife.org/	$130,000	General Support
-2019-08	Global Catastrophic Risks Institute	https://gcrinstitute.org/	$60,000	General Support
-2019-08	LessWrong 2.0	https://www.lesswrong.com/	$260,000	General Support
+month	grantee	url	amount	source	purpose	round
+2019-08	80,000 Hours	https://80000hours.org/	$280,000	SFF	General Support	2019-Q3
+2019-08	Center For Applied Rationality	https://rationality.org/	$110,000	SFF	General Support	2019-Q3
+2019-08	Centre for the Study of Existential Risk	https://www.cser.ac.uk/	$40,000	SFF	General Support	2019-Q3
+2019-08	Future of Life Institute	https://futureoflife.org/	$130,000	SFF	General Support	2019-Q3
+2019-08	Global Catastrophic Risks Institute	https://gcrinstitute.org/	$60,000	SFF	General Support	2019-Q3
+2019-08	LessWrong 2.0	https://www.lesswrong.com/	$260,000	SFF	General Support	2019-Q3
+2019-11	80,000 Hours	https://80000hours.org	$40,000	SFF	General Support of 80,000 Hours	2019-Q4
+2019-11	AI Impacts	https://aiimpacts.org/	$70,000	SFF	General Support of AI Impacts	2019-Q4
+2019-11	AAAI/ACM conference on AI, Ethics and Society (AIES 2020)	http://www.aies-conference.com	$20,000	SFF	General Support of AIES	2019-Q4
+2019-11	Alliance to Feed the Earth in Disasters (ALLFED)	https://allfed.info/	$10,000	SFF	General Support of ALLFED	2019-Q4
+2019-11	Center For Applied Rationality	https://rationality.org/	$150,000	SFF	General Support	2019-Q4
+2019-11	Charter Cities Institute	https://www.chartercitiesinstitute.org/	$60,000	SFF	General Support of the Charter Cities Institute	2019-Q4
+2019-11	Centre for the Study of Existential Risk, University of Cambridge	https://www.cser.ac.uk/	$50,000	SFF	General Support of Centre for the Study of Existential Risk, University of Cambridge	2019-Q4
+2019-11	Earth Law Center	https://www.earthlawcenter.org	$30,000	SFF	General Support	2019-Q4
+2019-11	Global Catastrophic Risk Institute	http://gcrinstitute.org	$30,000	SFF	General Support of  GCRI	2019-Q4
+2019-11	Longevity Research Institute	https://thelri.org	$160,000	SFF	General Support	2019-Q4
+2019-11	Median Group	http://www.mediangroup.org	$50,000	SFF	General Support	2019-Q4
+2019-11	Modeling Cooperation	http://modelingcooperation.com/	$50,000	SFF	General Support of Modeling Cooperation	2019-Q4
+2019-11	OAK (Optimizing Awakening and Kindness)	https://www.monasticacademy.com/meet-california	$100,000	SFF	General Support of OAK (Optimizing Awakening and Kindness)	2019-Q4
+2019-11	Ought Inc.	https://ought.org	$100,000	SFF	General Support	2019-Q4
