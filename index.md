@@ -2,12 +2,10 @@
 
 <a name="2019-h1" class="intrapage-link"></a>
 ### 2020-H1 grant round 
-SFF is holding another grant round to distribute funds in June 2020.  We estimate between $0.8MM and $1.5MM will be distributed in this round.   Applications are due on **April 13** (previously March 7), via the following form:<br>
-[SFF-2020-H1 Grant Application](https://docs.google.com/forms/d/e/1FAIpQLScpl1y8UBdF0_eU57h1hBku2VUMEdGlFFUJkSirFml_eUx-fA/viewform?usp=sf_link)
+SFF's had finalized its grant decisions for 2020-H1:<br>
+[SFF-2010-H1 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2020-h1)
 
-We officially extended the application deadline to April 13 because many applicants were late due to difficulties arising from COVID-19.
-
-We are considering running another similar grant round in 2020-H2, but a final decision on this has not been made.
+The total funding distributed will be around $1.8MM, above the high end of our expected $0.8MM-1.5MM estimate.  We are considering running another similar grant round in 2020-H2 (July-Dec), but a final decision on this has not been made.
 
 <a name="2019-q4" class="intrapage-link"></a>
 ### 2019-Q4 grant round 
