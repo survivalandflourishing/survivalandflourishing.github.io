@@ -12,8 +12,9 @@
     }, 250);
 
     var headings = $('h1, h2, h3, h4');
+    var headings2 = $('h2, h3, h4');
     console.log("s")
-    $.each(headings, function (i, el) {
+    $.each(headings2, function (i, el) {
       if (!el.id) {
         // Hyphen-case the innerText if id is missing
         el.id = el.innerText.replace(/\s+/g, '-').toLowerCase();
@@ -25,7 +26,7 @@
 
     headings.css('cursor', 'pointer');
 
-    headings.click(function () {
+    headings2.click(function () {
       window.location.href = '#' + this.id;
       var el = document.querySelector(window.location.hash);
       if (el) {
