@@ -23,9 +23,10 @@ Our goal is to bring financial support to organizations working to improve human
 
 SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.
 
-SFF works closely with [Survival and Flourishing](http://survivalandflourishing.org/) (SAF), a Sponsored Project of [Social and Environmental Entrepreneurs](http://saveourplanet.org/) with a similar mission and overlapping leadership, however there is no formal relationship between SAF and SFF. SAF and SFF have complementary functions:
-- SAF as a general rule does not make grants to 501(c)(3) public charities, while SFF does, and
+SFF works closely with [Survival and Flourishing](http://survivalandflourishing.org/) (SAF), a Sponsored Project of [Social and Environmental Entrepreneurs](http://saveourplanet.org/) with a similar mission and overlapping leadership.  While there is no formal relationship between SAF and SFF, we have complementary functions:
 - SFF as a general rule does not make grants to individuals, while SAF does.
+- SAF as a general rule does not make grants to 501(c)(3) public charities, while SFF does.
+
 
 <a name="advisors" class="intrapage-link"></a>
 ### Survival and Flourishing Fund Advisors
