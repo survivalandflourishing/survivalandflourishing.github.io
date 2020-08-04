@@ -1,5 +1,3 @@
-_SFF awards grants to existing charities.  For smaller grants and fiscal sponsorship for long-termist projects that don't yet have an institutional home, visit [SAF](http://survivalandflourishing.org)._
-
 <a name="2019-h1" class="intrapage-link"></a>
 ### 2020-H1 grant round 
 SFF's had finalized its grant decisions for 2020-H1:<br>
