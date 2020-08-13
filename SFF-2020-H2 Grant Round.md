@@ -1,0 +1,14 @@
+## SFF-2020-H2 Grant Round
+
+
+SFF is organizing another S-Process grant round in collaboration with Jaan Tallinn to distribute funds in December 2020. We estimate between $2.5 - $3M will be distributed. 
+Applications are due on September 5th at 11:59pm Pacific Time, via the following form: [SFF-2020-H2 Grant Applications](https://docs.google.com/forms/d/e/1FAIpQLSfb9jYEjRSIcyor6mdFQOvuuZzDS044TlVC2jQ22azZvVPk_g/viewform). 
+
+
+Some of the funders in this round have given a statement of priorities for areas which they are more interested in funding:
+* Jaan Tallinn’s priorities: https://jaan.online/philanthropy.html
+* SFF’s priorities: “Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing”
+
+
+If you have any questions, please contact htallinn.philanthropy@gmail.com or sff-contact@googlegroups.com.
+
