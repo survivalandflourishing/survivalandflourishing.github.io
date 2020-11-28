@@ -1,5 +1,5 @@
 # SFF-2020-H2 S-process Recommendations Announcement
-In the second half of this year (2020-H2), six people participated as “Recommenders” in a single round of a grant-recommendation process for the funders Jaan Tallinn (independent), Jed McCaleb (independent) and the Survival and Flourishing Fund (SFF; http://survivalandflourishing.fund/).
+In the second half of this year (2020-H2), six people participated as “Recommenders” in a single round of a grant-recommendation process for the funders Jaan Tallinn (independent), Jed McCaleb (independent) and the Survival and Flourishing Fund (SFF).
 The following Recommenders in this round agreed to have their identities made public:
 
 * Oliver Habryka
@@ -53,7 +53,7 @@ Most of the final endorsed recommendations of this round of the S-process are li
 
 Note that the S-process system is designed to generally favor funding things that at least one recommender is excited to fund, rather than things that every recommender is excited to fund.  As such, the grant recommendations above do not especially represent the “average” opinion of the group in any sense.  On the other hand, as described above, each Recommender participating in this round of the S-process had the unilateral ability to veto any organization from appearing in the final endorsed outputs of the process appearing here.  As such, there in principle could be organizations that one or more Recommenders were excited to fund, and that one or more funders decided to fund as a result of this round, but that do not appear on this list because public endorsement of the grant by the S-process was vetoed.  
 
-SFF specifically will still continue making all of the grants it makes eventually publicly visible on its homepage (http://survivalandflourishing.fund/), but if some of those grants are not endorsed by an S-process round, they will not be listed as an S-process grant.    
+SFF specifically will still continue making all of the grants it makes eventually publicly visible on its [homepage](http://survivalandflourishing.fund/), but if some of those grants are not endorsed by an S-process round, they will not be listed as an S-process grant.    
 
 ## Freedoms compatible with the S-process
 The S-process is designed to allow a lot of freedom and autonomy for the Recommenders and the funders.  Funders retain the right and freedom to make and/or recommend grants that the S-process, as a whole, did not endorse, based on information the funders learn from the S-process.  As well, the Recommenders and funders are free to communicate with each other as much as they want outside of the S-process structure.  As such, while the S-process might be useful in helping the funders to learn about grant-making opportunities and opinions, the funders need not be limited by the outputs of the S-process in order for it to function.
