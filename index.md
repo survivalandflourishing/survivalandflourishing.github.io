@@ -1,7 +1,9 @@
 <a name="2020-h2" class="intrapage-link"></a>
-### 2020-H2 grant round announcement 
-SFF is organizing another grant round in collaboration with Jaan Tallinn to distribute funds in December 2020. Applications are due September 5th. For more information see: 
-[SFF-2020-H2 Grant Applications](https://survivalandflourishing.fund/sff-2020-h2)
+### 2020-H2 grant round  
+SFF has finalized its grant recommendations for 2020-H2:<br>
+[SFF-2020-H2 S-process Recommendations Announcement](https://survivalandflourishing.fund/sff-2020-h2-recommendations)
+
+The total funding will be around $3.9MM. We are considering another round in the first half of 2021 (March-June), but this decision has not been finalized yet. 
 
 <a name="2019-h1" class="intrapage-link"></a>
 ### 2020-H1 grant round 
