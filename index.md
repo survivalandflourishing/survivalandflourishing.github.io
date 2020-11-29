@@ -8,7 +8,7 @@ The total funding will be around $3.9MM. We are considering another round in the
 <a name="2019-h1" class="intrapage-link"></a>
 ### 2020-H1 grant round 
 SFF's had finalized its grant decisions for 2020-H1:<br>
-[SFF-2010-H1 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2020-h1)
+[SFF-2020-H1 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2020-h1)
 
 The total funding distributed will be around $1.8MM, above the high end of our expected $0.8MM-1.5MM estimate.  We are considering running another similar grant round in 2020-H2 (July-Dec), but a final decision on this has not been made.
 
