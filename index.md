@@ -36,20 +36,6 @@ SFF works closely with [Survival and Flourishing](http://survivalandflourishing.
 <a name="advisors" class="intrapage-link"></a>
 ### Survival and Flourishing Fund Advisors
 
-<a name="alex-flint" class="intrapage-link"></a>
-<div class="bio">
-  <div class="box person">
-    <img
-      src="/images/alex-flint.jpg"
-      alt="Alex Flint"
-      width="132px"/>
-  </div>
-<div class="name">Alex Flint</div>
-<div class="title">Fund Advisor</div>
-Alex Flint previously worked as Staff Software Engineer at <a href="https://getcruise.com/">Cruise Automation</a>, which creates autonomous driving technology. Alex joined Cruise after the company he co-founded, Zippy, was acquired. Previously, Alex was Head of Engineering at <a href="https://kite.com/">Kite</a>. Alex holds a DPhil in Engineering from Oxford University and a Bachelor’s degree in Computer Science from the University of Adelaide.
-</div>
-
-
 <a name="andrew-critch" class="intrapage-link"></a>
 <div class="bio">
   <div class="box person">
