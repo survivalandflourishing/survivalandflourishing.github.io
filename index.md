@@ -22,15 +22,13 @@ The total funding distributed will be around $2MM, at the high end of our expect
 <a name="about" class="intrapage-link"></a>
 ### About Us 
 
-Survivalandflourishing.fund is a website maintained by the Fund Advisors of the Survival and Flourishing Fund (SFF), a Donor Advised Fund held at the Silicon Valley Community Foundation.
+Survivalandflourishing.fund is a "virtual fund": we organize applications submission and evaluation processes to help donors decide where to make donations.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
 
-Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
-
-SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.
+SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.  We previously maintained a DAF at the Silicon Valley Community Foundation under the same name (SFF), but that DAF is not currently in active use for our grant-making process.
 
 SFF works closely with [Survival and Flourishing](http://survivalandflourishing.org/) (SAF), a Sponsored Project of [Social and Environmental Entrepreneurs](http://saveourplanet.org/) with a similar mission and overlapping leadership.  While there is no formal relationship between SAF and SFF, we have complementary functions:
-- SFF as a general rule does not make grants to individuals, while SAF does.
-- SAF as a general rule does not make grants to 501(c)(3) public charities, while SFF does.
+- SFF as a general rule does not facilitate grants to individuals, while SAF does.
+- SAF as a general rule does not facilitate grants to 501(c)(3) public charities, while SFF does.
 
 
 <a name="advisors" class="intrapage-link"></a>
@@ -72,4 +70,4 @@ Eric works at <a href="http://EMX.com/">EMX.com</a>, where he was a founding eng
 <a name="contact" class="intrapage-link"></a>
 ### Contact
 
-If you need to reach SFF, you can send an email to sff(char)contact@googlegroups.com, with (char) replaced by a hyphen (to avoid spam).  Note that we are a volunteer-run organization and might take some time to respond.
+If you need to reach SFF, you can send an email to sff(char)contact@googlegroups.com, with (char) replaced by a hyphen (to avoid spam).  Note that we are a volunteer-run operation and might take some time to respond.
