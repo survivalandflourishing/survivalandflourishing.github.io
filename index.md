@@ -1,3 +1,8 @@
+<a name="2021-h1" class="intrapage-link"></a>
+### SFF-2021-H1 grant round  
+SFF is pleased to announce a new grant round, with applications due in March and funds to be distributed in June 2021. For more information please see the announcement below:<br>
+[SFF-2021-H1 S-process Grant Round Announcement](https://survivalandflourishing.fund/sff-2021-h1)
+
 <a name="2020-h2" class="intrapage-link"></a>
 ### SFF-2020-H2 grant round  
 SFF has finalized its grant recommendations for 2020-H2:<br>
