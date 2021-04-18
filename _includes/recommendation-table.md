@@ -79,3 +79,4 @@ Below is a list of grants we have recommended using the S-process.  Recommendati
 | SFF-2020-H2 | Jaan Tallinn | The Roots of Progress | $21,000 | Mercatus Center Inc | General support of The Roots of Progress |
 | SFF-2020-H2 | Jaan Tallinn | AAAI/ACM Conference on Artificial Intelligence, Ethics and Society | $20,000 | Association for the Advancement of Artificial Intelligence | General support of AAAI/ACM Conference on Artificial Intelligence |
 | SFF-2020-H2 | Jaan Tallinn | Effective Thesis | $15,000 | N/A | General Support |
+
