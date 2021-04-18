@@ -27,7 +27,7 @@ The total funding distributed was $2.01MM, at the high end of our expected $1MM-
 <a name="about" class="intrapage-link"></a>
 ### About Us 
 
-Survivalandflourishing.fund is a "virtual fund": we organize applications submission and evaluation processes to help donors decide where to make donations.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
+Survivalandflourishing.fund is a "virtual fund": we organize application submission and evaluation processes to help donors decide where to make donations.  Our goal is to bring financial support to organizations working to improve humanity’s long-term prospects for survival and flourishing.  We use this website to host announcements about our plans to investigate grant-making opportunities.  
 
 SFF was initially funded in 2019 by a grant of approximately $2 million from the Organizational Grants Program of the Berkeley Existential Risk Initiative (BERI), which in turn was funded by donations from philanthropist Jaan Tallinn.  We previously maintained a DAF at the Silicon Valley Community Foundation under the same name (SFF), but that DAF is not currently in active use for our grant-making process.
 
