@@ -26,7 +26,7 @@ Most of the final endorsed recommendations of this round of the S-process are li
 | SFF | The Center for Election Science | $44,000 | The Center for Election Science | General support |
 | SFF | The Future Society, Inc. | $37,000 | The Future Society, Inc. | General support |
 | SFF | Generation Pledge | $37,000 | Centre for Effective Altruism | General support of Generation Pledge at the Centre for Effective Altruism |
-| SFF | Center for Applied Utilitarianism  | $21,000 | N/A | General support of Center for Applied Utilitarianism |
+| SFF | Center for Applied Utilitarianism  | $21,000 | Centre for Effective Altruism | General support of Center for Applied Utilitarianism |
 | Jed McCaleb | Topos Institute | $144,000 | Topos Institute | Conditional support |
 | Jed McCaleb | Center for Applied Rationality | $23,000 | Center for Applied Rationality | General support |
 | Jed McCaleb | Stanford Existential Risks Initiative | $56,000 | Stanford University | General support of Stanford Existential Risks Initiative |
