@@ -1,4 +1,4 @@
-Below is a complete list of grants we have thus far recommended to be made from the Survival and Flourishing Fund, accurate up to the final date listed in the table.  Recommendations after that final date might not be listed yet.
+Below is a list of grants we have recommended using the S-process.  Recommendations after the final date might not be listed yet.
 
 | Round | Source | Organization | Amount | Receiving Charity | Purpose |
 |:-------|:-------|:-------------|:-------|:----------|:--------|
