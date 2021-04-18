@@ -70,7 +70,7 @@ Eric works at <a href="http://EMX.com/">EMX.com</a>, where he was a founding eng
 <a name="grants" class="intrapage-link"></a>
 ### Past Grant Recommendations
 
-{% include recommendation-table.html %}
+{% include recommendation-table.md %}
 
 <a name="contact" class="intrapage-link"></a>
 ### Contact
