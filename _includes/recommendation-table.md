@@ -52,7 +52,7 @@ Below is a complete list of grants we have thus far recommended to be made from 
 | SFF-2020-H1 | Jed McCaleb | Future of Humanity Foundation | $10,000 | Future of Humanity Foundation | General support |
 | SFF-2020-H2 | SFF DAF | Future of Life Institute | $23,000 | Future of Life Institute | General support |
 | SFF-2020-H2 | SFF DAF | Center for Applied Rationality | $212,000 | Center for Applied Rationality | General support |
-| SFF-2020-H2 | SFF DAF | Future of Humanity Institute, Research Scholars Programme | $218,000 | University of Oxford | General support of the Research Scholars Programme at Future of Humanity Institute |
+| SFF-2020-H2 | SAF | Future of Humanity Institute, Research Scholars Programme | $218,000 | University of Oxford | General support of the Research Scholars Programme at Future of Humanity Institute |
 | SFF-2020-H2 | SFF DAF | Center for Innovative Governance Research | $58,000 | Center for Innovative Governance Research | General support |
 | SFF-2020-H2 | SFF DAF | The Center for Election Science | $44,000 | The Center for Election Science | General support |
 | SFF-2020-H2 | SFF DAF | The Future Society, Inc. | $37,000 | The Future Society, Inc. | General support |
