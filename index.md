@@ -1,5 +1,5 @@
 ### Newsletter
-Sign up to our [newletter](https://docs.google.com/forms/d/e/1FAIpQLSeGgE8xD3XmW62kSLIp7BuK1sejricSArBvxVInUI8o0p7Q8Q/viewform?usp=sf_link) to be notified of future SFF funding rounds.
+Sign up to our [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeGgE8xD3XmW62kSLIp7BuK1sejricSArBvxVInUI8o0p7Q8Q/viewform?usp=sf_link) to be notified of future SFF funding rounds.
 
 <a name="2021-h1" class="intrapage-link"></a>
 ### SFF-2021-H1 grant round  
