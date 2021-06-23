@@ -41,7 +41,7 @@ SFF's 2020-H1 grant round announcement can be found here:
 <a name="2019-q4" class="intrapage-link"></a>
 ### SFF-2019-Q4 recommendations
 SFF has finalized most of its grant decisions for 2019-Q4:<br>
-[SFF-2019-Q4 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2019-q4)
+[SFF-2019-Q4 S-process Recommendations Announcement](http://survivalandflourishing.fund/sff-2019-q4-recommendations)
 
 The total funding distributed was $2.01MM, at the high end of our expected $1MM-$2MM estimate. 
 
