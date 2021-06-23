@@ -1,6 +1,6 @@
 ### SFF-2021-H2 announcement
 SFF is announcing its 2021-H2 grant round, find out more here: 
-[SFF-2021-H2 grant announcement](http://survivalandflourishing.fund/sff-2020-h2.-announcement) 
+[SFF-2021-H2 grant announcement](http://survivalandflourishing.fund/sff-2021-h2-announcement) 
 
 ### Newsletter
 Sign up to our [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeGgE8xD3XmW62kSLIp7BuK1sejricSArBvxVInUI8o0p7Q8Q/viewform?usp=sf_link) to be notified of future SFF funding rounds.
