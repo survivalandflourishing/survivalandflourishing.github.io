@@ -37,7 +37,7 @@ endorsement of any particular grant.  Grants not officially endorsed in this way
 | Jaan Tallinn | BERI-SERI Collaboration | $333,000 | Berkeley Existential Risk Initiative | General support of BERI-SERI Collaboration |
 | Jaan Tallinn | Generation Pledge | $291,000 | Generation Pledge, Inc. | General Support |
 | Jaan Tallinn | Legal Priorities Project | $265,000 | Legal Priorities, Inc. | General Support |
-| Jaan Tallinn | Centre for the Governance of AI, Future of Humanity Institute | $253,000 | Berkeley Existential Risk Initiative | General support of Centre for the Governance of AI, Future of Humanity Institute | 
+| Jaan Tallinn | Robert Trager and Joslyn Barnhart | $253,000 | Berkeley Existential Risk Initiative | In support of the work of Robert Trager and Joslyn Barnhart on AI governance in collaboration with GovAI | 
 | Jaan Tallinn | AI Impacts | $221,000 | Machine Intelligence Research Institute | General support of AI Impacts
 | Jaan Tallinn | AI Safety Support | $200,000 | Rethink Charity | General support of AI Safety Support
 | Jaan Tallinn | Alliance to Feed the Earth in Disasters | $175,000 | Players Philanthropy Fund | General support of Alliance to Feed the Earth in Disasters |
